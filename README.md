@@ -68,6 +68,21 @@ Type "help", "copyright", "credits" or "license" for more information.
 '1.13.1'
 >>>
 ```
+
+## Checking Keras version
+
+```
+$ python3
+Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import keras
+Using TensorFlow backend.
+>>> keras.__version__
+'2.2.4'
+>>>
+```
+
 ## Projects
 
 * [deep learning with python](https://github.com/shahjalalh/deeplearning/tree/master/deep-learning-with-python)
