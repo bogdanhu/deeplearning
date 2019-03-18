@@ -57,6 +57,17 @@ Requires: wheel, termcolor, tensorflow-estimator, protobuf, gast, absl-py, six, 
 Required-by:
 ```
 
+Or,
+```
+$ python3
+Python 3.5.2 (default, Nov 12 2018, 13:43:14) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import tensorflow
+>>> tensorflow.__version__
+'1.13.1'
+>>>
+```
 ## Projects
 
 * [deep learning with python](https://github.com/shahjalalh/deeplearning/tree/master/deep-learning-with-python)
