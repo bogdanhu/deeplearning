@@ -2,6 +2,9 @@
 
 
 ```
+$ sudo apt update
+$ sudo apt install python3-dev python3-pip
+$ 
 # Current stable release for CPU-only
 $ sudo pip3 install tensorflow
 $
