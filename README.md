@@ -1,5 +1,8 @@
 # Deep Learning
 
+## Deep Learning - Machine Learning - AI
+<img src="./images/deeplearning-machinelearning-ai.png" />
+
 ## Install dependencies
 ```
 $ sudo apt update
