@@ -16,7 +16,7 @@ $
 $ pip3 install jupyter
 $ jupyter notebook
 $
-$ pip3 install numpy scipy matplotlib ipython pandas sympy nose scikit-learn
+$ pip3 install theano numpy scipy matplotlib ipython pandas sympy nose scikit-learn
 ```
 
 ## Try keras from python terminal -  
