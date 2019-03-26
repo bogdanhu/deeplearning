@@ -1,4 +1,4 @@
-# DEEP LEARNING
+# DEEP LEARNING A-Z
 
 ## Create virtual environment
 ```
