@@ -86,6 +86,9 @@ Using TensorFlow backend.
 >>>
 ```
 
+## Deep Learning
+<img src="images/supervised-unsupervised.png" />
+
 ## Projects
 
 * [deep learning with python](https://github.com/shahjalalh/deeplearning/tree/master/deep-learning-with-python)
